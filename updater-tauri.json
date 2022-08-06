@@ -1,15 +1,19 @@
 {
-  "version": "v1.0.0",
-  "notes": "Test version",
-  "pub_date": "2022-08-06T17:07:08Z",
+  "version": "v1.0.1",
+  "notes": "Перша стабільна версія",
+  "pub_date": "2022-08-06T18:50:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.0/ua-land-updater_1.0.0_amd64.AppImage.tar.gz.sig",
-      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.0/UALand.Updater.app.tar.gz"
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/ua-land-updater_1.0.1_amd64.AppImage.tar.gz.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/ua-land-updater_1.0.1_amd64.AppImage.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.0/ua-land-updater_1.0.0_amd64.AppImage.tar.gz.sig",
-      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.0/ua-land-updater_1.0.0_amd64.AppImage.tar.gz"
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/UALand.Updater.app.tar.gz.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/UALand.Updater.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/UALand.Updater_1.0.1_x64_en-US.msi.zip.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.0.1/UALand.Updater_1.0.1_x64_en-US.msi.zip"
     }
   }
 }
