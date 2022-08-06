@@ -1,0 +1,19 @@
+{
+  "version": "v1.0.0",
+  "notes": "Test version",
+  "pub_date": "2022-08-06T17:07:08Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://dl.bultek.com.ua/ualand/v1.0.0/appleintel/app.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://dl.bultek.com.ua/ualand/v1.0.0/app.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://dl.bultek.com.ua/ualand/v1.0.0/app.x64.msi.zip"
+    }
+  }
+}
