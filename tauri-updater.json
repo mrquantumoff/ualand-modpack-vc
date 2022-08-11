@@ -1,19 +1,19 @@
 {
-  "version": "1.3.0",
-  "notes": "Фікс багу інтерфейсу",
+  "version": "1.3.2",
+  "notes": "Фікс",
   "pub_date": "2022-08-08T13:15:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/ua-land-updater_1.3.0_amd64.AppImage.tar.gz.sig",
-      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/ua-land-updater_1.3.0_amd64.AppImage.tar.gz"
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/ua-land-updater_1.3.2_amd64.AppImage.tar.gz.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/ua-land-updater_1.3.2_amd64.AppImage.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/UALand.Updater.app.tar.gz.sig",
-      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/UALand.Updater.app.tar.gz"
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/UALand.Updater.app.tar.gz.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/UALand.Updater.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/UALand.Updater_1.3.0_x64_en-US.msi.zip.sig",
-      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.0/UALand.Updater_1.3.0_x64_en-US.msi.zip"
+      "signature": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/UALand.Updater_1.3.2_x64_en-US.msi.zip.sig",
+      "url": "https://github.com/mrquantumoff/ualand-updater/releases/download/v1.3.2/UALand.Updater_1.3.2_x64_en-US.msi.zip"
     }
   }
 }
